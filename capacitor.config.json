@@ -1,0 +1,8 @@
+{
+  "appId": "com.example.bushiking",
+  "appName": "ブシキング",
+  "webDir": "www",
+  "backgroundColor": "#161d3a",
+  "ios": { "contentInset": "never" },
+  "android": { "backgroundColor": "#161d3a" }
+}

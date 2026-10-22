@@ -1,0 +1,12 @@
+{
+  "name": "bushiking",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ブシキング：戦国武将と技カードで戦う、刀・弓・槍のジャンケン勝ち抜きバトル",
+  "scripts": {
+    "serve": "npx serve www",
+    "android": "npx cap add android && npx cap sync android && npx cap open android",
+    "ios": "npx cap add ios && npx cap sync ios && npx cap open ios",
+    "sync": "npx cap sync"
+  }
+}
